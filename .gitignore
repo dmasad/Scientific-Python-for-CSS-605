@@ -1,0 +1,6 @@
+
+*.zip
+names/
+.ipynb_checkpoints/
+
+*.pyc
